@@ -1,0 +1,5 @@
+C:\Users\manish\OneDrive\Documents\Projects\EditDistanceAndSorting\EditDistanceAndSorting\obj\Debug\net6.0\EditDistanceAndSorting.csproj.AssemblyReference.cache
+C:\Users\manish\OneDrive\Documents\Projects\EditDistanceAndSorting\EditDistanceAndSorting\obj\Debug\net6.0\EditDistanceAndSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manish\OneDrive\Documents\Projects\EditDistanceAndSorting\EditDistanceAndSorting\obj\Debug\net6.0\EditDistanceAndSorting.AssemblyInfoInputs.cache
+C:\Users\manish\OneDrive\Documents\Projects\EditDistanceAndSorting\EditDistanceAndSorting\obj\Debug\net6.0\EditDistanceAndSorting.AssemblyInfo.cs
+C:\Users\manish\OneDrive\Documents\Projects\EditDistanceAndSorting\EditDistanceAndSorting\obj\Debug\net6.0\EditDistanceAndSorting.csproj.CoreCompileInputs.cache
